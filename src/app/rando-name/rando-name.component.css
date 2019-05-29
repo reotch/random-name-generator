@@ -1,0 +1,20 @@
+.wrapper {
+    grid-template-columns: repeat(3, 1fr);
+    text-align: center;
+    grid-template-rows: 400px;
+}
+
+
+button {
+    grid-column: 2;
+    margin: 20px;
+    padding: 5px;
+    box-shadow: 4px 6px 8px;
+}
+
+p {
+    margin: 50px;
+    font-size: 150%;
+    font-weight: 800;
+    text-shadow: 8px 4px 6px #999898;
+}

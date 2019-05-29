@@ -1,0 +1,44 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+footer {
+    background: rgb(59, 97, 136);
+    margin: 0;
+    text-align: center;
+    color: whitesmoke;
+    border-radius: 0px 0px 20px 20px;
+}
+
+h1 {
+    padding: 20px;
+}
+
+.navbar {
+    margin: 0;
+    padding: 20px;
+    background: #000;
+    border-radius: 0px 0px 20px 20px;
+}
+
+ul {
+    text-align: center;
+}
+
+.navbar ul li {
+    display: inline;
+    text-align: center;
+    padding: 0px 20px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+}
+
+a:hover {
+    color: slategray;
+}
